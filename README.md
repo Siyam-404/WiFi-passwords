@@ -7,7 +7,7 @@ What distinguishes the tool is its ease and simple interface....
 Installation↯𝑰𝑵𝑺𝑻𝑨𝑳𝑳
 ☟☟☟☟☟☟☟☟☟☟☟☟☟☟☟☟☟☟☟
 
-⚡ wget https://raw.github.com/derv82/wifite/master/wifite.py
+⚡ wget git clone https://github.com/Siyam-404/wifite.py.git
 
 ⚡ chmod +x wifite.py
 
